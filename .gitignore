@@ -22,6 +22,7 @@ build
 !default.perspectivev3
 !default.mode1v3
 !default.mode2v3
+DerivedData
 
 *~.nib
 *~.xib
