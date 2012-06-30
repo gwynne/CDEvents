@@ -13,7 +13,7 @@
 #pragma mark CDEvents custom exceptions
 NSString *const CDEventsEventStreamCreationFailureException = @"CDEventsEventStreamCreationFailureException";
 
-#pragma -
+#pragma mark -
 #pragma mark Default values
 const CDEventsEventStreamCreationFlags kCDEventsDefaultEventStreamFlags =
 	(kFSEventStreamCreateFlagUseCFTypes |
